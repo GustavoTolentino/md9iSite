@@ -1,0 +1,62 @@
+{
+  "subtitulo": "Arquitetamos o seu sonho para tornar-lo realidade.",
+  "bannerText": {
+    "what-is": {
+      "tittle": "O que é?",
+      "text": "Analytics é o processo de análise de dados para extrair insights, descobrir padrões e tomar decisões estratégicas. Ele envolve o uso de técnicas estatísticas e matemáticas para coletar, processar e interpretar grandes conjuntos de dados, com o objetivo de identificar tendências, padrões e oportunidades de negócios. As técnicas de analytics podem ser aplicadas em diversas áreas, como marketing, vendas, finanças, operações e recursos humanos, para ajudar as empresas a entender melhor seu desempenho e tomar decisões mais precisas e estratégicas. As ferramentas de analytics incluem software de análise de dados, painéis de controle, visualizações de dados e modelos estatísticos."
+    },
+    "why-hire": {
+      "tittle": "Por que contratar?",
+      "text": "Contratar um serviço de analytics pode ajudar a empresa a tomar decisões mais informadas, identificar oportunidades de negócios, aumentar a eficiência e produtividade, melhorar o atendimento ao cliente e aumentar a vantagem competitiva."
+    },
+    "first-section": {
+      "tittle": "GOVERNANÇA DE DADOS",
+      "sub-tittle": "BIG DATA",
+      "text": "Você pode usar big data para entender melhor seus clientes, identificar tendências e padrões de mercado, melhorar a eficiência e a produtividade e tomar decisões mais informadas e estratégicas. A governança de dados é importante para o sucesso do big data, pois ajuda a garantir que os dados sejam coletados, armazenados e usados de forma ética e eficaz. Isso inclui a implementação de medidas de segurança e privacidade para proteger os dados de acesso não autorizado e a definição de padrões para a qualidade dos dados para garantir sua confiabilidade e precisão. A governança de dados também ajuda a garantir a conformidade regulatória e reduzir o risco de litígios e violações de dados."
+    },
+    "info-chart-one": {
+      "tittle-one": "Banco de Dados",
+      "text-one": "Usamos o banco de dados para armazenar informações sobre uma variedade de assuntos, como clientes, produtos, transações, registros médicos, entre outros. As informações podem ser adicionadas, editadas ou excluídas do banco de dados por meio de consultas e comandos de linguagens de programação específicas.",
+      "tittle-two": "Business Intelligence",
+      "text-two": "Com o Power BI, é possível criar painéis de controle interativos e personalizados, visualizações de dados, gráficos e relatórios que permitem a identificação de tendências, oportunidades de negócios e insights valiosos. A plataforma também oferece recursos de colaboração, permitindo que vários usuários trabalhem em projetos de BI simultaneamente e compartilhem suas análises com outras pessoas dentro ou fora da empresa.",
+      "tittle-three": "Business Analytics",
+      "text-three": "Nossos profissionais de Business Analytics têm habilidades em análise de dados, programação, matemática, estatística e negócios, e desempenham um papel fundamental na transformação de dados brutos em informações valiosas para a tomada de decisões de negócios informadas.",
+      "extended-chart": {
+        "tittle": "Power BI",
+        "text": "A ferramenta é usada para coletar, transformar e modelar dados de diversas fontes e transformá-los em informações úteis para tomada de decisões."
+      }
+    },
+    "info-chart-two": {
+      "tittle-one": "Dados",
+      "text-one": "A primeira etapa é coletar, processar e armazenar dados relevantes para o negócio. Esses dados podem ser obtidos de diversas fontes, como bancos de dados, planilhas, arquivos de log, entre outros. Os dados devem ser organizados e limpos para que possam ser usados em análises eficazes.",
+      "tittle-two": "Análise",
+      "text-two": "A análise envolve a aplicação de algoritmos e modelos matemáticos para extrair informações úteis dos dados. A análise pode ser feita por meio de técnicas estatísticas, machine learning e outras técnicas de modelagem de dados. A análise pode ser realizada em tempo real ou em lotes, dependendo do tipo de análise e das necessidades do negócio.",
+      "tittle-three": "Visualização",
+      "text-three": "A visualização de dados é a etapa final, onde as informações extraídas da análise são apresentadas de forma clara e compreensível. As visualizações podem incluir gráficos, tabelas, mapas, dashboards e outras representações visuais dos dados. A visualização é importante para comunicar os resultados da análise de forma eficaz e para ajudar as pessoas a tomar decisões informadas.",
+      "extended-chart": {
+        "tittle": "Etapas de análise",
+        "text": "Os pilares do Analytics são os três componentes fundamentais para a criação de um sistema de análise de dados eficiente e bem-sucedido."
+      }
+    },
+    "last-section": {
+      "title": "LINGUAGENS DE PROGRAMAÇÃO",
+      "sub-title-one": "O Power BI é uma plataforma de Business",
+      "sub-title-two": "Intelligence da Microsoft que oferece",
+      "sub-title-three": "diversas vantagens",
+      "sub-section": {
+        "title-one": "Visualização de dados:",
+        "text-one": "O Power BI permite criar gráficos, tabelas, mapas e outras visualizações de dados que facilitam a compreensão e a interpretação das informações.",
+        "title-two": "Integração com diversas fontes de dados:",
+        "text-two": "O Power BI pode se integrar com diversas fontes de dados, incluindo bancos de dados relacionais, planilhas, aplicativos e serviços em nuvem.",
+        "title-three": "Análise avançada:",
+        "text-three": "O Power BI oferece recursos de análise avançada, como análise de tendências, análise de regressão, segmentação de dados e previsão de resultados.",
+        "title-four": "Personalização e colaboração:",
+        "text-four": "O Power BI permite personalizar relatórios e painéis de acordo com as necessidades do usuário, além de possibilitar a colaboração em tempo real com outras pessoas.",
+        "title-five": "Acesso em qualquer lugar:",
+        "text-five": "O Power BI pode ser acessado de qualquer lugar, a qualquer hora, por meio de dispositivos móveis ou desktop.",
+        "title-six": "Custo acessível:",
+        "text-six": "O Power BI oferece diferentes planos de preços, incluindo uma versão gratuita, tornando a plataforma acessível para empresas de todos os tamanhos."
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "subtitulo": "We architect your dream to make it come true.",
+  "bannerText": {
+    "what-is": {
+      "tittle": "What is it?",
+      "text": "Analytics is the process of analyzing data to extract insights, discover patterns and make strategic decisions. It involves the use of statistical and mathematical techniques to collect, process and interpret large sets of data, with the aim of identifying trends, patterns and business opportunities. Analytics techniques can be applied in many areas, such as marketing, sales, finance, operations and human resources, to help companies better understand their performance and make more accurate and strategic decisions. Analytics tools include data analysis software, dashboards, data visualizations and statistical models."
+    },
+    "why-hire": {
+      "tittle": "Why hire?",
+      "text": "Hiring an analytics service can help the company make more informed decisions, identify business opportunities, increase efficiency and productivity, improve customer service and increase competitive advantage."
+    },
+    "first-section": {
+      "tittle": "DATA GOVERNANCE",
+      "sub-tittle": "BIG DATA",
+      "text": "You can use big data to better understand your customers, identify market trends and patterns, improve efficiency and productivity, and make more informed and strategic decisions. Data governance is important to the success of big data as it helps ensure that data is collected, stored and used ethically and effectively. This includes implementing security and privacy measures to protect data from unauthorized access and setting standards for data quality to ensure its reliability and accuracy. Data governance also helps ensure regulatory compliance and reduce the risk of litigation and data breaches."
+    },
+    "info-chart-one": {
+      "tittle-one": "Data Bank",
+      "text-one": "We use the database to store information on a variety of subjects, such as customers, products, transactions, medical records, and more. Information can be added, edited, or deleted from the database through specific programming language queries and commands.",
+      "tittle-two": "Business Intelligence",
+      "text-two": "With Power BI, you can create interactive and personalized dashboards, data visualizations, charts and reports that allow you to identify trends, business opportunities and valuable insights. The platform also offers collaboration features, allowing multiple users to work on BI projects simultaneously and share their analysis with others inside or outside the company.",
+      "tittle-three": "Business Analytics",
+      "text-three": "Our Business Analytics professionals have skills in data analysis, programming, mathematics, statistics and business, and play a key role in transforming raw data into valuable information for making informed business decisions.",
+      "extended-chart": {
+        "tittle": "Power BI",
+        "text": "The tool is used to collect, transform and model data from various sources and transform them into useful information for decision making."
+      }
+    },
+    "info-chart-two": {
+      "tittle-one": "Data",
+      "text-one": "The first step is to collect, process and store business-relevant data. This data can be obtained from several sources, such as databases, spreadsheets, log files, among others. Data must be organized and clean so that it can be used in effective analysis.",
+      "tittle-two": "Analysis",
+      "text-two": "Analysis involves applying algorithms and mathematical models to extract useful information from data. The analysis can be done using statistical techniques, machine learning and other data modeling techniques. Analysis can be performed in real-time or in batches, depending on the type of analysis and business needs.",
+      "tittle-three": "View",
+      "text-three": "Data visualization is the final step, where the information extracted from the analysis is presented in a clear and understandable way. Visualizations can include charts, tables, maps, dashboards, and other visual representations of data. Visualization is important for communicating analysis results effectively and for helping people make informed decisions.",
+      "extended-chart": {
+        "tittle": "Analysis Steps",
+        "text": "The Analytics Pillars are the three key components to building a successful and efficient data analytics system."
+      }
+    },
+    "last-section": {
+      "title": "PROGRAMMING LANGUAGES",
+      "sub-title-one": "Power BI is a Microsoft Business",
+      "sub-title-two": "Intelligence platform that offers",
+      "sub-title-three": "several advantages",
+      "sub-section": {
+        "title-one": "Data visualization:",
+        "text-one": "Power BI lets you create charts, tables, maps, and other data visualizations that make information easier to understand and interpret.",
+        "title-two": "Integration with various data sources:",
+        "text-two": "Power BI can integrate with a variety of data sources, including relational databases, spreadsheets, apps, and cloud services.",
+        "title-three": "Advanced analysis:",
+        "text-three": "Power BI offers advanced analytics capabilities such as trend analysis, regression analysis, data slicers, and predicting outcomes.",
+        "title-four": "Collaboration and Personalization:",
+        "text-four": "Power BI lets you customize reports and dashboards to your needs, and allows you to collaborate in real time with others.",
+        "title-five": "Access anywhere",
+        "text-five": "Power BI can be accessed from anywhere, anytime via mobile or desktop devices.",
+        "title-six": "Affordable Cost",
+        "text-six": "Power BI offers different pricing plans, including a free version, making the platform accessible to businesses of all sizes."
+      }
+    }
+  }
+}

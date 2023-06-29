@@ -1,0 +1,779 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  main {
+    @apply flex w-full flex-col items-center justify-center text-center
+  }
+  body{
+    @apply overflow-x-hidden max-w-full max-h-full
+  }
+  section {
+    @apply max-sm:pt-20 max-sm:mt-20
+  }
+
+}
+
+.custom-img {
+  background-image: url("/banner345.png")
+}
+
+.contato-md9i-banner-img {
+  background-image: url("/contato_md9i_banner.png")
+}
+
+.dotnet {
+  background-image: url("/dotnet.png")
+}
+
+.java {
+  background-image: url("/java.png")
+}
+
+.react {
+  background-image: url("/react.png")
+}
+
+.angular {
+  background-image: url("/angular.png")
+}
+
+.img-blockchain {
+  background-image: url("/cardsx.png")
+}
+
+.img-developmnent {
+  background-image: url("/cardsxdev.png");
+}
+
+.img-neurotec {
+  background-image: url("/neurotecimg.png");
+}
+
+.img-analitics {
+  background-image: url("/analiticsimg.png");
+}
+
+.img-consultancy {
+  background-image: url("/consultancyimg.png");
+}
+
+.img-outsourcing {
+  background-image: url("/outsourcing.png");
+}
+
+.img-logo-woman {
+  background-image: url("/logowomanedit.png");
+}
+
+.img-wnf {
+  background-image: url("/wnf_logo.png");
+}
+
+.img-neuroetica {
+  background-image: url("/Logo_neuroetica.png");
+}
+
+.img-microsoft {
+  background-image: url("/microsoft.png");
+}
+
+.img-suse {
+  background-image: url("/suse.png");
+}
+
+.img-cisco {
+  background-image: url("/cisco.png");
+}
+
+.img-r3 {
+  background-image: url("/r3.png");
+}
+
+.img-institucional-banner {
+  background-image: url("/institucional-bg.png");
+}
+
+.img-institucional-grupo {
+  background-image: url("/institucinal-grupo.png");
+}
+
+.img-linearticon {
+  background-image: url("/iconlineart.png");
+}
+
+.img-classsection {
+  background-image: url("/classessection.png");
+}
+
+.img-tecnico {
+  background-image: url("/tecnico.png");
+}
+.img-business {
+  background-image: url("/business.png");
+}
+
+.img-tecnico-en {
+  background-image: url("/tecnico-en.png");
+}
+.img-business-en {
+  background-image: url("/business-en.png");
+}
+
+
+.img-business-es {
+ background-image: url("/business-es.png");
+}
+.img-tecnico-es {
+ background-image: url("/tecnico-es.png");
+}
+
+.img-uxui {
+  background-image: url("/uxui.png");
+}
+
+.img-programing {
+  background-image: url("/programingimg.png");
+}
+
+.img-bi-example {
+  background-image: url("/bi-img.png");
+}
+
+.img-icon-powerbi {
+  background-image: url("/icon-powerbi.png");
+}
+
+.img-neurotechnology {
+  background-image: url("/neurotec.png");
+}
+
+.img-instagram-negative {
+  background-image: url("/instagram-negative.png");
+}
+
+.img-linkedin-negative {
+  background-image: url("/linkedin-negative.png");
+}
+
+.img-icon-negative {
+  background-image: url("/icon-negative.png");
+}
+
+.img-facebook-negative {
+  background-image: url("/facebook-negative.png");
+}
+
+.img-computacao-persuasiva {
+  background-image: url("/computacaopersuasiva.png");
+}
+
+.img-groupout {
+  background-image: url("/groupoutsourcing.png");
+}
+
+.img-blockchaingreen {
+  background-image: url("/blockchaincode.png");
+}
+
+.img-bichart {
+  background-image: url("/bichart.png");
+}
+
+.img-three-plants {
+  background-image: url("/plants.png");
+}
+
+.img-three-plants {
+  background-image: url("/plants.png");
+}
+
+.img-brainstock {
+  background-image: url("/brainstock.png");
+}
+
+.img-ecossistema {
+  background-image: url("/ecossistema-fundo.png");
+}
+
+.img-ecossistema-circulo {
+  background-image: url("/ECOSSISTEMA_circulo.png");
+}
+
+.img-Outsourcing-card-man {
+  background-image: url("/Outsourcing-card-man.png");
+}
+
+.img-Blockchain-cardwoman {
+  background-image: url("/Blockchain-cardwoman.png");
+}
+
+.img-Consultancy-card-hands {
+  background-image: url("/Consultancy-card-hands.png");
+}
+
+.img-circuit-neuro-card {
+  background-image: url("/circuit-neuro-card.png");
+}
+
+.img-analytics-card-computer {
+  background-image: url("/analytics-card-computer.png");
+}
+
+.img-neurotecimage {
+  background-image: url("/neurotecimage.png");
+}
+.img-business-mobile {
+  background-image: url("/business-mobile.png");
+}
+
+.img-tecnico-mobile {
+  background-image: url("/tecnico-mobile.png");
+}
+.img-business-mobile-en {
+  background-image: url("/business-mobile-en.png");
+}
+.img-business-mobile-es {
+  background-image: url("/business-mobile-es.png");
+}
+.img-tecnico-mobile-es{
+  background-image: url("/tecnico-mobile-es.png");
+}
+.img-tecnico-mobile-en {
+  background-image: url("/tecnico-mobile-en.png");
+}
+.img-institucional-banner-mobile {
+  background-image: url("/Institucional-banner-mobile.png");
+}
+.img-section-paper-web {
+background-image: url("/BG-paper-WEB.png")
+}
+
+.img-vemser-left {
+background-image: url("/BG_ameba1.png")
+}
+.img-vemser-rigth {
+background-image: url("/BG_ameba2.png")
+}
+
+.img-blockchain-leaf {
+background-image: url("/block-chain-leaf.png")
+}
+
+.img-outsourcing-man {
+background-image: url("/outsourcing-new-man.png")
+}
+
+.pt-Flag {
+  background-image: url("/br.png");
+}
+.en-Flag {
+  background-image: url("/usa.png");
+}
+.es-Flag {
+  background-image: url("/es.png");
+}
+.flag {
+  width: 30px;
+  height: 30px;
+  border-radius: 1000px;
+  background-size: cover;
+  background-position: center;
+  margin: 0 5px;
+  border: solid 1px #c0c0c0;
+}
+
+.searchLink {
+    font-size: 14px;
+    color: #333;
+    text-decoration: none;
+}
+.ulSearchBar {
+    max-height: 50%;
+    overflow-y: auto;
+}
+.flagsDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+.searchPageWrapper, .resultsArea{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.searchPageWrapper{
+  background-color: #f2f2f2;
+  align-items: center;
+  height: 100%;
+  width: 100vw;
+  padding-top: 10rem;
+}
+.resultsArea{
+  align-items: flex-start;
+  box-shadow: 0 0 0.31em 0.13em hsla(0,0%,42%,0.15);
+  padding: 2rem 1.5rem 1.5rem;
+  background-color: #fff;
+  width: 60vw;
+  height: 100%;
+  padding: 36px;
+  margin-bottom: 200px;
+}
+.resultsArea h1{
+  font-size: 36px;
+  line-height: 1.2;
+  font-weight: bolder;
+  margin-bottom: 36px;
+  text-align: left;
+}
+.resultsArea h3{
+  color: #004dff;
+  font-size: 22px;
+  font-style: normal;
+  line-height: 1.6;
+  text-align: left;
+  margin: 5px 0;
+  font-weight: bold;
+}
+.resultsArea p{
+  font-size: 16px;
+  text-align: left;
+  margin: 0;
+}
+.resultsArea hr{
+  font-size: 2px;
+  color: #333;
+}
+.searchBarStyle{
+  background-color: #fff;
+  border: solid 1px black;
+  padding: 24px;
+  font-size: 16px;
+  color: #333;
+  width: 600px;
+  height: 30px;
+  margin: 0 20px;
+  outline: none;
+}
+.searchBarStyle::placeholder {
+  color: #c4c4c4;
+}
+.searchWrapper {
+  margin: 36px 0;
+}
+.lengthResults{
+  display: flex;
+  width: 55vw;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.lengthResults h2{
+  font-size: 20px;
+  color: #000000;
+  font-weight: 600;
+}
+.lengthResults p{
+  line-height: 2px;
+  font-size: 14px;
+}
+.ecoSection {
+  display: flex;
+  align-items: flex-start !important;
+}
+/* 1535 */
+@media screen and (max-width: 1535px) {
+  .solutionsItem {
+    margin-top: 3px;
+  }
+}
+@layer components {
+  .img-boilerplate {
+    @apply bg-contain bg-no-repeat bg-center
+  }
+
+  .institucional-section {
+    @apply grid-flow-col grid grid-cols-2 w-screen h-3/4 pb-10 2xl:pb-5
+  }
+  .institucional-section-mobile {
+    @apply h-3/4 flex flex-col items-center justify-center
+  }
+  .institucional-img-womam {
+    @apply col-span-1 h-[40rem] w-[40rem] 2xl:h-[60rem] 2xl:w-[60rem]
+  }
+
+  .breakline-institucional-title {
+    @apply font-bold text-5xl w-full 2xl:text-[4.5rem]
+  }
+  .breakline-institucional-title-mobile {
+    @apply font-bold text-3xl w-full
+  }
+  .menuItens {
+    font-size: 1.4rem !important;
+    @apply inline-block mx-5 self-center w-full h-full 2xl:text-3xl
+  }
+  .navSize {
+    height: 5rem !important;
+  }
+  .app-wrapper {
+    @apply max-w-full flex  flex-col items-center justify-center  overflow-x-hidden
+  }
+
+  .homepage-wrapper {
+    @apply flex items-center justify-center
+           h-[90vh]  w-full
+           bg-fixed bg-center bg-no-repeat bg-cover
+  }
+  .homepage-banner-text-style {
+    @apply p-5 text-2xl font-bold text-white
+           2xl:text-6xl block
+  }
+  .homepage-banner-text-style-mobile {
+    @apply text-4xl max-w-full max-h-full
+           font-bold text-white snap-center
+           px-10
+
+  }
+
+  .homepage-mobile-wrapper {
+    @apply flex flex-col items-center justify-center
+           h-screen w-full align-middle
+           bg-[72%] bg-cover max-w-full
+
+  }
+
+  .homepage-subtitle-wrapper-style  {
+    @apply px-10 py-10 flex flex-col justify-center items-center
+  }
+  .homepage-subtitle-mobile-wrapper-style  {
+    @apply px-4 pt-6 pb-1 flex flex-col justify-center items-center
+  }
+
+  .institucional-wrapper {
+    @apply items-center justify-center h-[80vh] w-screen bg-cover
+           bg-fixed grid gap-1 grid-flow-col grid-cols-2
+  }
+  .institucional-wrapper-mobile {
+    @apply items-center flex flex-col align-middle sm:hidden sm:h-[80vh]  bg-no-repeat
+           justify-center h-screen w-full bg-[50%] max-w-full
+  }
+  .institucional-image-mobile {
+    @apply items-center flex flex-col align-middle sm:hidden sm:h-[80vh]  bg-no-repeat bg-contain
+           justify-center h-screen w-full bg-[50%] max-w-full img-institucional-banner-mobile
+  }
+  .contatoButton {
+    @apply bg-blue-100 bg-opacity-95 w-2 h-2 rounded-md py-1 px-4
+  }
+
+  .institucinal-section-bg-web {
+    @apply bg-cover bg-fixed img-section-paper-web bg-opacity-100
+  }
+  .navBar-Big {
+    @apply fixed  h-20 z-20 items-center will-change-scroll text-zinc-50 top-0 bg-opacity-0 w-full left-0  flex justify-between px-4 pr-10 text-base
+  }
+  .navBar-2xl {
+    @apply fixed h-40 z-20 items-center text-zinc-50 top-0 bg-opacity-0 w-full flex justify-between px-8 pr-20 text-base
+  }
+
+  .text-break {
+    @apply py-4 2xl:text-xl font-normal
+  }
+
+  .navBar-Big:hover {
+    @apply bg-opacity-10 bg-slate-400 border-b-[0.02rem]
+  }
+
+  .ecossystem-titles {
+    @apply py-2 block text-left w-full bg-transparent text-3xl font-bold w-full 2xl:text-5xl
+  }
+
+  .ecossystem-texts {
+    @apply sm:py-10 text-left bg-transparent text-xs w-full 2xl:text-xl
+  }
+
+  .ecossystem-texts-mobile {
+    @apply py-10 text-left bg-transparent text-xs w-full 2xl:text-xl
+  }
+
+  .ecossystem-business-image {
+    @apply img-boilerplate self-end z-0 h-[48rem] w-[48rem] 2xl:h-[72rem] 2xl:w-[72rem] img-ecossistema-circulo
+  }
+
+  .ecossystem-business-image-mobile {
+    @apply img-boilerplate my-10 z-0 h-[22rem] w-[22rem]  img-ecossistema-circulo
+  }
+
+  .ecossystem-subtitle-section {
+    @apply px-10 py-4 flex flex-col justify-center items-center
+  }
+  .ecossystem-subtitle-section-mobile {
+    @apply px-10  flex flex-col justify-center items-start
+  }
+
+ .ecossystem-subtitle-text {
+    @apply py-10 text-left text-xs w-1/2 2xl:text-xl
+  }
+
+ .ecossystem-subtitle-text-mobile {
+    @apply text-left text-base w-full 2xl:text-xl
+  }
+
+  .ecossystem-text-section {
+    @apply px-10 flex justify-between items-start py-10 sm:py-0
+  }
+
+  .ecossystem-text-div {
+    @apply z-10 bg-transparent w-1/3  overflow-hidden self-center
+  }
+
+
+  .menuhovered {
+    @apply mt-6 ml-2 2xl:text-2xl bg-white rounded-lg shadow-md overflow-auto hidden absolute
+  }
+
+  .tohover {
+    @apply block
+  }
+
+  .tohover:hover .menuhovered {
+    @apply block
+  }
+
+  .tohover:focus .menuhovered {
+    @apply block
+  }
+
+  .tohover:active .menuhovered {
+    @apply block
+  }
+
+  .hoverMenuItens {
+    font-size: 1.4rem !important;
+    @apply block px-4 bg-transparent py-2 text-black hover:bg-indigo-200
+  }
+
+  .solutionsMenuStyle {
+    font-size: 1.4rem !important;
+    @apply block text-white hover:bg-slate-400 w-full h-full focus:bg-slate-400 rounded-lg 2xl:text-3xl
+  }
+
+  .ecossystem-lines {
+    @apply absolute bg-transparent h-0 z-20 border-b-[1.8px] 2xl:border-b-[3.2px] 2xl:mt-4
+  }
+
+  .index-cards {
+    @apply flex row-auto justify-between items-center gap-8
+  }
+
+  .solutions-normal-styles {
+    @apply flex h-[16.5rem] w-80 rounded-xl items-center justify-center p-2
+  }
+
+  .solutions-2xl-styles {
+    @apply flex h-[33rem] w-[40rem] rounded-xl items-center justify-center p-4
+  }
+  .solutionsboilerplate {
+    @apply w-screen h-screen sm:mb-[-6%]
+  }
+
+  .solutions-section-sub-Image {
+    @apply w-[30rem] h-[30rem] 2xl:w-[45rem] 2xl:h-[45rem] img-boilerplate
+  }
+  .solutions-section-sub-Image-mobile {
+    @apply w-80 h-80 img-boilerplate
+  }
+  .solutions-section-text {
+    @apply font-bold text-lg 2xl:text-2xl
+  }
+
+  .solutions-section-text-div-mobile {
+    @apply flex flex-col justify-center items-center
+  }
+
+  .solutions-xl-styles {
+      @apply flex h-[24.75rem] w-[30rem] rounded-xl items-center justify-center p-4
+    }
+
+
+  .solutions-infobanner-first {
+    @apply h-full w-full flex flex-col justify-start
+  }
+  .solutions-infobanner-first-mobile {
+    @apply h-full w-full flex flex-col-reverse justify-start
+  }
+  .solutions-infobanner-chart-one {
+    @apply w-full h-full px-20 absolute z-10
+  }
+  .solutions-infobanner-chart-two {
+    @apply w-full h-full px-20 absolute flex z-10
+  }
+
+ .solutions-info-chartone-infochart {
+    @apply h-2/3
+2xl:h-3/4 w-1/2 border-t-2 p-[-10rem] drop-shadow-md border-b-8
+  }
+
+   .solutions-info-charttwo-infochart {
+    @apply h-2/3 w-1/2  border-t-2 p-[-10rem] drop-shadow-md border-b-8
+  }
+
+  .solutions-info-chartonestyle {
+    @apply w-full flex flex-col h-1/3 pt-10 gap-y-24 z-0
+  }
+  .solutions-text-charts {
+    @apply h-full w-full z-0 self-center flex items-center text-sm
+  }
+
+  .solutions-info-chartonestyle-mobile {
+    @apply w-full flex h-1/4 mt-2 flex-col
+  }
+
+  .solutions-extrainfo-chart-section {
+    @apply w-screen bg-slate-100 h-5/6
+  }
+
+  .solutions-extrainfo-chart-section-mobile {
+    @apply w-screen bg-slate-50 h-full mb-10 z-20  flex flex-col
+  }
+
+  .ux-ui-mobile {
+    @apply img-boilerplate img-uxui w-[20rem] h-[20rem]
+  }
+
+  .ux-bi-chart-mobile {
+    @apply img-boilerplate img-bichart w-[20rem] h-[20rem]
+  }
+  .ux-blockchaingreen-mobile {
+    @apply img-boilerplate img-blockchaingreen w-[20rem] h-[20rem]
+  }
+  .ux-img-three-plants-mobile {
+    @apply img-boilerplate img-three-plants w-[20rem] h-[20rem]
+  }
+  .ux-img-img-brainstock {
+    @apply img-boilerplate img-brainstock w-[20rem] h-[20rem]
+  }
+  .ux-img-img-groupout {
+    @apply img-boilerplate img-groupout w-[30rem] h-[20rem]
+  }
+
+  .vemser-text {
+    @apply w-[26.5rem] py-2
+  }
+
+
+  .vemser-text-2xl {
+    @apply w-[44rem]  text-2xl py-2
+  }
+  .vemser-text-xl {
+    @apply w-[33rem]  text-xl py-2
+  }
+
+  .vem-ser-text-section {
+    @apply align-top sm:text-start text-left px-4 sm:px-0 self-center sm:pr-2
+  }
+
+  .vem-ser-text-section-mobile {
+    @apply text-left justify-center  flex flex-col w-1/3
+  }
+  .vemser-img {
+    @apply img-logo-woman img-boilerplate w-80 h-80
+  }
+  .vemser-img-mobile {
+    @apply img-logo-woman img-boilerplate w-80 h-80
+  }
+  .vemser-img-2xl {
+    @apply img-logo-woman img-boilerplate w-[40rem] h-[40rem]
+  }
+  .vemser-img-xl {
+    @apply img-logo-woman img-boilerplate w-[30rem] h-[30rem]
+  }
+
+  .solutions-banner-style {
+    @apply h-full w-screen top-0 bg-fixed bg-gradient-to-r pt-12 flex items-start justify-center flex-col
+  }
+  .solutions-Title-banner {
+    @apply font-extrabold text-6xl text-white 2xl:text-[5rem]
+  }
+  .solutions-Title-banner-mobile{
+    @apply font-extrabold text-4xl text-white py-2
+  }
+
+  .solutions-double-card-title {
+    @apply flex flex-col w-full sm:text-left text-center h-full p-8 items-start justify-center
+  }
+
+  .solutions-title-both-banner {
+    @apply font-bold text-3xl text-left py-2 sm:pl-12 2xl:text-4xl
+  }
+
+
+  .solutions-banner-div {
+    @apply items-start text-left pl-10 pb-10 pt-24
+  }
+
+  .solutions-SubTitle-banner {
+    @apply text-white font-light 2xl:text-xl
+  }
+
+  .solutions-banner-cards-wrapper {
+    @apply w-full h-2/4 flex bg-slate-50 flex-row pl-[2%]
+  }
+  .solutions-banner-cards-wrapper-mobile {
+    @apply w-full h-5/6 flex bg-slate-50 flex-col
+  }
+  .service-contract-button {
+    @apply sm:py-6 text-2xl text-slate-50 w-full py-5 flex items-center justify-end pr-10 font-bold 2xl:text-3xl 2xl:py-10 hover:cursor-pointer
+  }
+  .menuMobile {
+    @apply sm:hidden fixed h-20 z-30
+           text-zinc-50 top-0 justify-between items-center
+           bg-opacity-100 w-full left-0  flex
+           px-4  text-base
+  }
+  .mobileMenuitem {
+    @apply text-white text-2xl py-5 font-bold
+  }
+  .mobileMenuShowed {
+    @apply flex flex-col fixed z-20  w-full h-full left-0 top-0 justify-center items-center bg-[#022C43]
+  }
+  .footer-logo {
+    @apply  w-8 h-8 2xl:w-12 2xl:h-12
+  }
+  .footer-logo-mobile {
+    @apply  w-16 h-16
+  }
+  .footer-text{
+    @apply flex justify-between w-1/2 text-sm 2xl:text-2xl
+  }
+  .footer-wrapper {
+    @apply flex h-24 2xl:h-36 w-full items-center justify-center border-t bg-black text-white
+  }
+  .footer-wrapper-mobile {
+    @apply flex h-1/6 w-full items-center justify-center border-t bg-black text-white
+  }
+  .vemser-section {
+    @apply flex  w-screen h-3/4 pb-5 pt-2
+           justify-center items-center
+  }
+  .section-title-text-section {
+    @apply col-span-2 text-left w-[39rem] 2xl:w-[50rem] py-10 text-sm mr-10
+  }
+  .section-title-text-section-mobile {
+    @apply col-span-2 text-left w-80 mx-4 text-sm font-semibold
+  }
+  .sectionBird {
+    @apply img-linearticon img-boilerplate h-[40rem] w-[40rem] sm:ml-[-20%] 2xl:h-[60rem] 2xl:w-[60rem]
+  }
+
+  .institucional-section-banners-examples {
+    @apply h-[24rem] w-[50rem] 2xl:h-[36rem] 2xl:w-[75rem]
+  }
+  .img-cursos-class-Section {
+    @apply  h-[20rem] w-[22rem] 2xl:h-[30rem] 2xl:w-[31rem]
+  }
+  .img-cursos-class-Section-mobile {
+    @apply  h-[15rem] w-[16.5rem]
+  }
+}

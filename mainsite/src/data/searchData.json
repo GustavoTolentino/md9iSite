@@ -1,0 +1,915 @@
+[
+  {
+    "id": 1,
+    "title": "Nós somos ágeis, digitais e humanos",
+    "description": "Informacoes da empresa",
+    "content": "A 13 anos no mercado a MD9i atua como uma empresa de tecnologia. Visamos sempre impactar positivamente nossos clientes, agregando valor estratégico aos negócios através da tecnologia e dos nossos serviços e soluções. Somos uma comunidade forte e apaixonada por resultados. Também somos Apaixonados por Agilidade e Resultados para nossos clientes foquem em seu negócio. Dia a dia reforçamos o nosso compromisso junto aos nossos clientes, na busca constante pela excelência em nossos resultados. Temos hoje uma respeitável carteira de clientes formada pelas maiores organizações do País, além de gigantes multinacionais. Estamos muito além dos custos competitivos e da qualidade de padrão internacional nos serviços prestados. Acelerando a inovação de gerenciamento de dados de classe empresarial Na MD9i, acreditamos que os dados podem tornar o que é impossível hoje, possível amanhã. Capacitamos as pessoas para transformar dados complexos em insights claros e acionáveis. Para isso, entregamos um Enterprise Data Cloud para qualquer dado, em qualquer lugar, desde o Edge até o AI. Impulsionada pela inovação implacável da comunidade de código aberto, a MD9i acelera a transformação digital para as maiores empresas do mundo.",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 2,
+    "title": "Missão",
+    "description": "Missao da Empresa.",
+    "content": "Entender o negócio do cliente propondo uma solução tecnológica, facilitando seu crescimento com tranquilidade onde os recursos divergem.",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 3,
+    "title": "Visão",
+    "description": "Visao da empresa.",
+    "content": "Somos uma comunidade forte e apaixonada por resultados, agilidade e inovação. Trabalhamos para impactar positivamente nossos clientes, agregando valor estratégico aos negócios através da união da tecnologia com nossos serviços e soluções.",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 4,
+    "title": "Valores",
+    "description": "Valores da empresa.",
+    "content": "Resiliência, Inovação, Parceria, Humanização, Agilidade, Transparência e Compromisso.",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 5,
+    "title": "#VemSerMD9i",
+    "description": "Hashtag promovendo um convite a fazer parte da empresa",
+    "content": "Venha fazer parte de uma das melhores empresas para se trabalhar no mercado tecnológico, aqui na MD9i, você terá a oportunidade de se desenvolver, a liberdade de criar e o desafio para inovar. Se você almeja por inovação, capacitação e flexibilidade e está pronto para dar um play em sua carreira, estamos esperando por você! Candidate-se",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 6,
+    "title": "Cursos especializados em comportamento humano",
+    "description": "Artigo relacionado a cursos comportamentais",
+    "content": "O curso de FORMAÇÃO DE ESPECIALISTAS EM COMPORTAMENTO HUMANO, NEUROCIÊNCIA E PNL (PROGRAMAÇÃO NEUROLINGUÍSTICA, oferece uma formação teórica e prática a partir dos princípios e bases do conhecimento da MENTE HUMANA, visando instrumentalizar e qualificar profissionais para atuação em diferentes contextos ocupacionais. Pautado no embasamento teórico-prático da interface entre o cérebro e o comportamento humano, o curso oferece uma capacitação voltada para para resultados dentro dos diversos ambientes de atuação profissional.",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 7,
+    "title": "Chegue mais Perto!",
+    "description": "Slogan da pagina Institucional",
+    "content": "Sinta-se em casa!",
+    "category": "institucional",
+    "url": "/institucional"
+  },
+  {
+    "id": 8,
+    "title": "Analytics",
+    "description": "Slogan da pagina Analytics",
+    "content": "Arquitetamos o seu sonho para tornar-lo realidade.",
+    "category": "Analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 9,
+    "title": "O que é?",
+    "description": "Texto explicativo sobre Analytics",
+    "content": "Analytics é o processo de análise de dados para extrair insights, descobrir padrões e tomar decisões estratégicas. Ele envolve o uso de técnicas estatísticas e matemáticas para coletar, processar e interpretar grandes conjuntos de dados, com o objetivo de identificar tendências, padrões e oportunidades de negócios. As técnicas de analytics podem ser aplicadas em diversas áreas, como marketing, vendas, finanças, operações e recursos humanos, para ajudar as empresas a entender melhor seu desempenho e tomar decisões mais precisas e estratégicas. As ferramentas de analytics incluem software de análise de dados, painéis de controle, visualizações de dados e modelos estatísticos.",
+    "category": "Analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 10,
+    "title": "Por que contratar?",
+    "description": "Texto explicativo sobre o porque contratar os servicos de analytics",
+    "content": "Contratar um serviço de analytics pode ajudar a empresa a tomar decisões mais informadas, identificar oportunidades de negócios, aumentar a eficiência e produtividade, melhorar o atendimento ao cliente e aumentar a vantagem competitiva...",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 11,
+    "title": "GOVERNANÇA DE DADOS",
+    "description": "Artigo sobre governanca de dados e BIG DATA",
+    "content": "Você pode usar big data para entender melhor seus clientes, identificar tendências e padrões de mercado, melhorar a eficiência e a produtividade e tomar decisões mais informadas e estratégicas. A governança de dados é importante para o sucesso do big data, pois ajuda a garantir que os dados sejam coletados, armazenados e usados de forma ética e eficaz. Isso inclui a implementação de medidas de segurança e privacidade para proteger os dados de acesso não autorizado e a definição de padrões para a qualidade dos dados para garantir sua confiabilidade e precisão. A governança de dados também ajuda a garantir a conformidade regulatória e reduzir o risco de litígios e violações de dados.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 12,
+    "title": "Banco de Dados",
+    "description": "Artigo sobre banco de dados",
+    "content": "Usamos o banco de dados para armazenar informações sobre uma variedade de assuntos, como clientes, produtos, transações, registros médicos, entre outros. As informações podem ser adicionadas, editadas ou excluídas do banco de dados por meio de consultas e comandos de linguagens de programação específicas.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 13,
+    "title": "Business Intelligence",
+    "description": "Artigo sobre Business Intelligence",
+    "content": "Com o Power BI, é possível criar painéis de controle interativos e personalizados, visualizações de dados, gráficos e relatórios que permitem a identificação de tendências, oportunidades de negócios e insights valiosos. A plataforma também oferece recursos de colaboração, permitindo que vários usuários trabalhem em projetos de BI simultaneamente e compartilhem suas análises com outras pessoas dentro ou fora da empresa.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 14,
+    "title": "Business Analytics",
+    "description": "Artigo sobre Business Analytics",
+    "content": "Nossos profissionais de Business Analytics têm habilidades em análise de dados, programação, matemática, estatística e negócios, e desempenham um papel fundamental na transformação de dados brutos em informações valiosas para a tomada de decisões de negócios informadas.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 15,
+    "title": "Power BI",
+    "description": "Artigo sobre Power BI",
+    "content": "A ferramenta é usada para coletar, transformar e modelar dados de diversas fontes e transformá-los em informações úteis para tomada de decisões.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 16,
+    "title": "Etapas de Analise",
+    "description": "Artigo sobre Etapas de Analise na area de Analytics",
+    "content": "Os pilares do Analytics são os três componentes fundamentais para a criação de um sistema de análise de dados eficiente e bem-sucedido.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 17,
+    "title": "Dados",
+    "description": "Artigo sobre Dados",
+    "content": "A primeira etapa é coletar, processar e armazenar dados relevantes para o negócio. Esses dados podem ser obtidos de diversas fontes, como bancos de dados, planilhas, arquivos de log, entre outros. Os dados devem ser organizados e limpos para que possam ser usados em análises eficazes.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 18,
+    "title": "Analise",
+    "description": "Artigo sobre analise de dados",
+    "content": "A análise envolve a aplicação de algoritmos e modelos matemáticos para extrair informações úteis dos dados. A análise pode ser feita por meio de técnicas estatísticas, machine learning e outras técnicas de modelagem de dados. A análise pode ser realizada em tempo real ou em lotes, dependendo do tipo de análise e das necessidades do negócio.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 19,
+    "title": "Visualizacao",
+    "description": "Artigo sobre a visualizacao de dados",
+    "content": "A visualização de dados é a etapa final, onde as informações extraídas da análise são apresentadas de forma clara e compreensível. As visualizações podem incluir gráficos, tabelas, mapas, dashboards e outras representações visuais dos dados. A visualização é importante para comunicar os resultados da análise de forma eficaz e para ajudar as pessoas a tomar decisões informadas.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 20,
+    "title": "Linguagens de Programacao",
+    "description": "Artigo sobre Power BI",
+    "content": "O Power BI é uma plataforma de Business Intelligence da Microsoft que oferece diversas vantagens",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 21,
+    "title": "Visualizacao de Dados",
+    "description": "Artigo sobre a visualizacao de dados",
+    "content": "O Power BI permite criar gráficos, tabelas, mapas e outras visualizações de dados que facilitam a compreensão e a interpretação das informações.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 22,
+    "title": "Integracao com diversas fontes de dados",
+    "description": "Artigo sobre a integracao de dados",
+    "content": "O Power BI pode se integrar com diversas fontes de dados, incluindo bancos de dados relacionais, planilhas, aplicativos e serviços em nuvem.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 23,
+    "title": "Analise avancada",
+    "description": "Artigo sobre a analise avancada",
+    "content": "O Power BI oferece recursos de análise avançada, como análise de tendências, análise de regressão, segmentação de dados e previsão de resultados.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 24,
+    "title": "Personalizacao e Colaboracao",
+    "description": "Artigo sobre personalizacao e colaboracao",
+    "content": "O Power BI permite personalizar relatórios e painéis de acordo com as necessidades do usuário, além de possibilitar a colaboração em tempo real com outras pessoas.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 25,
+    "title": "Acesso em qualquer lugar",
+    "description": "Artigo sobre acesso remoto",
+    "content": "O Power BI pode ser acessado de qualquer lugar, a qualquer hora, por meio de dispositivos móveis ou desktop.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 26,
+    "title": "Custo acessivel",
+    "description": "Artigo sobre custo",
+    "content": "O Power BI oferece diferentes planos de preços, incluindo uma versão gratuita, tornando a plataforma acessível para empresas de todos os tamanhos.",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 27,
+    "title": "Curtiu as possibilidades?",
+    "description": "Pergunta sobre o que achou das informacoes e do produto",
+    "content": "Desenvolvemos tecnologia e estamos em constante movimento para fazer do seu projeto, a sua melhor experiência. Converse com um de nossos especialista e encontre a melhor solução para o seu problema!",
+    "category": "analytics",
+    "url": "/analytics"
+  },
+  {
+    "id": 28,
+    "title": "Blockchain",
+    "description": "Slogan da pagina Blockchain",
+    "content": "Arquitetamos o seu sonho para tornar-lo realidade.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 29,
+    "title": "O que é?",
+    "description": "Artigo sobre o que e blockchain",
+    "content": "Blockchain é uma tecnologia que permite a criação de um registro seguro e imutável de transações e dados por meio de uma rede descentralizada de computadores. Cada bloco da cadeia contém um registro de transações confirmadas e um hash único que o conecta ao bloco anterior da cadeia, o que torna a cadeia de blocos resistente a modificações. A tecnologia blockchain tem aplicações em várias áreas, como criptomoedas, cadeias de suprimentos, votação eletrônica, autenticação e muito mais.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 30,
+    "title": "Por que contratar?",
+    "description": "Artigo sobre porque contratar o servico de blockchain",
+    "content": "As empresas ou organizações podem considerar a contratação de serviços baseados em blockchain por várias razões, incluindo segurança, transparência, eficiência, redução de custos e inovação. No entanto, a implementação de blockchain pode ser complexa e requer conhecimento técnico especializado, tornando a contratação de serviços uma opção para empresas que desejam aproveitar as vantagens da tecnologia sem ter os recursos internos necessários.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 31,
+    "title": "TRANSAÇÕES DE DADOS",
+    "description": "Artigo sobre TRANSAÇÕES DE DADOS",
+    "content": "Soluções ágeis e inteligentes O principal serviço do blockchain é a criação de um registro distribuído, seguro e imutável de transações e dados. A tecnologia blockchain permite que as informações sejam armazenadas em uma rede descentralizada de computadores, onde cada nó da rede possui uma cópia idêntica do registro (chamado de 'ledger' ou livro-razão) e trabalha em conjunto para validar transações e adicionar novos registros à cadeia. Com a ajuda da criptografia e de mecanismos de consenso, a tecnologia blockchain garante que as transações sejam seguras e autênticas, tornando a cadeia de blocos (blockchain) resistente a modificações e falsificações. O serviço do blockchain é amplamente utilizado em criptomoedas, como o Bitcoin e o Ethereum, mas também tem aplicações em várias outras áreas, incluindo cadeias de suprimentos, votação eletrônica, autenticação e muito mais. Em resumo, o principal serviço do blockchain é fornecer um registro distribuído, seguro e imutável de transações e dados.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 32,
+    "title": "Descentralização",
+    "description": "Artigo sobre Descentralização",
+    "content": "O blockchain é uma rede descentralizada, o que significa que não é controlado por uma única entidade ou autoridade central. Em vez disso, a rede é composta por muitos nós que trabalham juntos para manter o consenso e validar transações.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 33,
+    "title": "Imutabilidade",
+    "description": "Artigo sobre Imutabilidade",
+    "content": "O blockchain é uma tecnologia imutável, o que significa que as transações gravadas na rede não podem ser alteradas ou apagadas. Isso ocorre porque cada bloco na cadeia contém uma referência ao bloco anterior e qualquer tentativa de modificar um bloco anterior exigiria a modificação de todos os blocos subsequentes, o que é extremamente difícil de fazer.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 34,
+    "title": "",
+    "description": "",
+    "content": "",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 35,
+    "title": "Segurança",
+    "description": "Artigo sobre Segurança no blockchain",
+    "content": "O blockchain é considerado uma tecnologia segura porque usa criptografia para proteger as transações e evitar que dados confidenciais sejam comprometidos. Além disso, a rede é projetada para resistir a ataques maliciosos ou tentativas de hacking.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 36,
+    "title": "Excelência",
+    "description": "Artigo sobre Excelência em blockchain",
+    "content": "Blockchain é um ledger descentralizado de cada transação que ocorre em uma rede, que permite o intercâmbio descentralizado de dados confiáveis",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 37,
+    "title": "Ledger distribuído",
+    "description": "Artigo sobre Ledger distribuído",
+    "content": "Cada participante do diagrama de rede mantém uma cópia de todas as transações. As transações são protegidas por criptografia para evitar adulteração.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 38,
+    "title": "Algoritmo de consenso",
+    "description": "Artigo sobre Algoritmo de consenso",
+    "content": "Nenhum nó ou servidor é responsável pela aprovação de transações, levando a um processamento de transações genuinamente distribuído. Cada entrada é validada e registrada em todos os ledgers do diagrama de rede.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 39,
+    "title": "Contratos inteligentes",
+    "description": "Artigo sobre Contratos inteligentes",
+    "content": "As transações podem ser enviadas com regras anexas - pequenos programas que governam quando e como as transações são processadas.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 40,
+    "title": "Transparência",
+    "description": "Artigo sobre Transparência",
+    "content": "O blockchain é uma tecnologia transparente, o que significa que todas as transações na rede são públicas e podem ser verificadas por qualquer pessoa. Isso ajuda a aumentar a confiança na rede e a reduzir a possibilidade de fraude ou corrupção.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 41,
+    "title": "AVALIAÇÃO DE MATURIDADE",
+    "description": "Artigo sobre AVALIAÇÃO DE MATURIDADE",
+    "content": "Nossa abordagem ao blockchain começa com uma avaliação onde várias linhas de serviço de maturidade podem apoiar os seguintes desenvolvimentos empresariais: - Criar consciência organizacional. O objetivo da primeira fase é aumentar o nível de conscientização, trabalhando juntos para identificar o potencial da cadeia de bloqueio. - Realização de uma avaliação de oportunidade em blockchain. Durante a segunda fase, o foco está na identificação das áreas de aplicação e casos de uso que trariam o maior valor agregado. - Desenvolver um roteiro de transformação. Na terceira fase, ajudamos a consolidar, priorizar e construir um roteiro transformacional multifásico. - Apoio à implementação. Nessa fase, apoiamos você na definição e implementação de provas de conceito, pilotos e implementações de blockchain em larga escala integradas com sua organização e sua cadeia de valor.",
+    "category": "blockchain",
+    "url": "/blockchain"
+  },
+  {
+    "id": 42,
+    "title": "Consultancy",
+    "description": "Slogan da pagina Consultancy",
+    "content": "Arquitetamos o seu sonho para tornar-lo realidade.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 43,
+    "title": "O que é?",
+    "description": "Artigo sobre O que é Consultancy",
+    "content": "Nossos consultores em TI geralmente trabalham em conjunto com os gestores de TI e de negócios da empresa para avaliar e analisar os processos e sistemas existentes, identificar problemas e propor soluções personalizadas para melhorar a eficiência, reduzir custos e aumentar a produtividade da empresa.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 44,
+    "title": "Por que contratar?",
+    "description": "Artigo sobre Por que contratar o servico de Consultancy",
+    "content": "Nossos consultores possuem habilidades, experiência e conhecimentos especializados em determinados setores ou assuntos, o que lhes permite oferecer soluções personalizadas para problemas e oportunidades específicos. Eles podem trazer novas ideias e perspectivas, fornecer orientação e aconselhamento imparciais, ajudar a desenvolver estratégias e planos de ação, e trabalhar com a equipe da empresa para implementar mudanças significativas.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 45,
+    "title": "TEMOS A SOLUÇÃO",
+    "description": "Artigo sobre TEMOS A SOLUÇÃO",
+    "content": "Cansado dos Problemas? A experiência e o conhecimento que temos nessa área não apenas ajudam as empresas a atingir seus objetivos, mas também atingir esses objetivos com menos riscos. Desde o nosso surgimento, estamos tentando eliminar os complexos problemas e desafios tecnológicos enfrentados pelas pequenas e medias empresas. Temos como objetivo permitir que nossos clientes mantenham maior foco em seu negócio. Criamos as soluções de TI mais adequadas para o seu negócio ajudando as empresas a trabalhar de maneira suave e otimizada. Nossos serviços são eficazes, previsíveis e completamente acessíveis, podendo ser personalizados de acordo com as necessidades da empresa. Todos nós nos preocupamos com o sucesso de nossos clientes, portanto, projetamos nossos serviços de forma inovadora. Para que você possa experimentar a transformação e elevação em seu modelo de negócios atual.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 46,
+    "title": "Melhoria da eficiência e produtividade",
+    "description": "Artigo sobre Melhoria da eficiência e produtividade",
+    "content": "Nossos consultores de TI podem ajudar a identificar e eliminar gargalos nos processos de negócios, implementar novas tecnologias e sistemas que aumentem a eficiência e a produtividade da empresa.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 47,
+    "title": "Redução de custos",
+    "description": "Artigo sobre Redução de custos",
+    "content": "Nossa consultoria pode ajudar a empresa a identificar oportunidades de redução de custos, como a implementação de sistemas mais eficientes e a redução de despesas com hardware e software desnecessários.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 48,
+    "title": "Implementação de soluções inovadoras",
+    "description": "Artigo sobre Implementação de soluções inovadoras",
+    "content": "Nossos consultores vão trazer novas ideias e soluções para sua empresa, permitindo que ela se mantenha atualizada e competitiva no mercado.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 49,
+    "title": "Crescimento e evolução",
+    "description": "Artigo sobre Crescimento e evolução",
+    "content": "Vamos ajudar a sua empresa a alcançar seus objetivos de negócios, melhorando a eficiência, reduzindo custos, aumentando a segurança e melhorando a experiência do cliente.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 50,
+    "title": "Aumento da segurança da informação",
+    "description": "Artigo sobre Aumento da segurança da informação",
+    "content": "Nós vamos ajudar a sua empresa a implementar medidas de segurança eficazes para proteger seus dados e sistemas contra ameaças cibernéticas.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 51,
+    "title": "Aumento da satisfação do cliente",
+    "description": "Artigo sobre Aumento da satisfação do cliente",
+    "content": "Nós vamos ajudar a sua empresa a implementar sistemas e tecnologias que melhorem a experiência do seu cliente, aumentando a satisfação e fidelidade dos mesmos.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 52,
+    "title": "Acesso a conhecimentos especializados",
+    "description": "Artigo sobre Acesso a conhecimentos especializados",
+    "content": "Nossa equipe possui conhecimento e experiência especializada em áreas específicas, permitindo que a sua empresa tenha acesso a conhecimentos que ela não possua internamente.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 53,
+    "title": "Objetivos e Metas",
+    "description": "Artigo sobre Objetivos e Metas",
+    "content": "Nós assumimos as responsabilidades para garantir que a sua empresa atinja seus objetivos e metas.",
+    "category": "consultancy",
+    "url": "/consultancy"
+  },
+  {
+    "id": 54,
+    "title": "Development",
+    "description": "Slogan da pagina Development",
+    "content": "Arquitetamos o seu sonho para tornar-lo realidade.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 55,
+    "title": "O que é?",
+    "description": "Artigo sobre O que é Development",
+    "content": "O desenvolvimento de software é o processo de produção de um sistema tecnológico, com as etapas que compreendem a concepção de um produto. Trata da forma como as fases são organizadas e do que deve ser feito sempre para padronizar a criação e permitir que empresas e equipes criem aplicações em escala. Ou seja, esse tipo de estudo é muito útil para as famosas fábricas de software, que são empresas que produzem sistemas para diversos fins em escala. O core business desses negócios é exatamente a produção dessas aplicações.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 56,
+    "title": "Por que contratar?",
+    "description": "Artigo sobre Por que contratar a MD9i",
+    "content": "O desenvolvimento de software demanda conhecimento, já que são linguagens bastante específicas que não ensinadas no nosso dia a dia. Por isso, contratar especialistas do setor para a sua empresa é uma opção bastante interessante. Além de diminuir erros que pessoas pouco entendidas podem cometer, os profissionais da área também ficam disponíveis para ajudar em qualquer urgência. Os especialistas são indicados para quem precisa de processos corporativos bem definidos. A MD9i é referência no ramo de desenvolvimento de sistemas e pode ser sua opção ideal!",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 57,
+    "title": "ARQUITETURA E SOLUÇÕES",
+    "description": "Artigo sobre ARQUITETURA E SOLUÇÕES",
+    "content": "Desenvolvimento de soluções ágeis e inteligentes O processo de desenvolvimento de um software possibilita que o sistema comece a ser desenhado. A arquitetura é o alicerce inicial de todo o projeto. Isso pelo fato de que ela é quem determina o funcionamento interno do sistema para que todas as especificações sejam compreendidas. Esse processo envolve a estrutura, como também pontos referentes à linguagem de programação, design de interface, entre outros. Geralmente, isso é posto em prática por um arquiteto de software. É importante salientar que a arquitetura de software é diferente do desenvolvimento de software!",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 58,
+    "title": "HCD",
+    "description": "Artigo sobre HCD",
+    "content": "Também conhecido como Design Centrado no Ser Humano, é uma filosofia que capacita um indivíduo ou até uma equipe completa a projetar produtos, serviços, sistemas e experiências de modo a combater um problema de forma efetiva. Esse conceito é aplicado para gerar novas soluções. Isso pode incluir melhorias aplicadas tanto a produtos quanto a serviços, além da empresa como um todo.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 59,
+    "title": "Inteligência Artificial",
+    "description": "Artigo sobre Inteligência Artificial",
+    "content": "Em termos mais simples, IA que significa inteligência artificial refere-se a sistemas ou máquinas que mimetizam a inteligência humana para executar tarefas e podem se aprimorar iterativamente com base nas informações que eles coletam. A IA se manifesta de várias formas.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 60,
+    "title": "Gamificação",
+    "description": "Artigo sobre Gamificação",
+    "content": "Gamificação é um termo adaptado do inglês – gamification – que define o emprego de técnicas comuns aos games em situações de não jogo. Ou seja, uma característica que, normalmente, aparece em jogos é adaptada para um contexto distinto, geralmente para motivar ou tornar uma tarefa mais prazerosa.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 61,
+    "title": "UX & UI Design",
+    "description": "Artigo sobre UX & UI Design",
+    "content": "Trabalhamos em estreita colaboração com nossos clientes a fim de projetar, definir e desenvolver experiências únicas e transformadoras para os seus clientes.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 62,
+    "title": "O Termo",
+    "description": "Artigo sobre O Termo",
+    "content": "Este programa de tecnologia persuasiva explora um campo de investigação dinâmico e interdisciplinar que se concentra no design, desenvolvimento e avaliação de tecnologias interativas que utilizam técnicas de persuação e influência social para influenciar no comportamento das pessoas. É utilizada em qualquer área de interação humano-humano ou humano-computador e é aplicável às vendas, diplomacia, política, religião, treinamento militar, saúde pública e administração. O design de tecnologias persuasivas pode ser vista como um caso particular de design com intenção. Seu objetivo final é fomentar a adoção de hábitos saudáveis.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 63,
+    "title": "Computação Persuasiva",
+    "description": "Artigo sobre Computação Persuasiva",
+    "content": "Compreender e dominar o poder persuasivo das tecnologias interativas",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 64,
+    "title": "LINGUAGENS DE PROGRAMAÇÃO",
+    "description": "Artigo sobre LINGUAGENS DE PROGRAMAÇÃO",
+    "content": "Explore novos recursos com as linguagens de programação mais usadas no mundo. O time de desenvolvimento recebe a demanda do analista de sistema, o protótipo do designer e transforma em tarefas iniciando o desenvolvimento em etapas pré-determinadas (ciclos) garantindo um cronograma assertivo para projetos.",
+    "category": "solucoes",
+    "url": "/development"
+  },
+  {
+    "id": 65,
+    "title": "Neurotechnology",
+    "description": "Slogan da pagina neurotechnology",
+    "content": "Arquitetamos o seu sonho para tornar-lo realidade.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 66,
+    "title": "O que é?",
+    "description": "Artigo sobre O que é neurotechnology",
+    "content": "A neurotecnologia é um campo de estudo interdisciplinar que combina neurociência, engenharia, ciência da computação e outras disciplinas para desenvolver tecnologias que possam ajudar a entender, diagnosticar e tratar doenças do sistema nervoso. Essas tecnologias incluem, por exemplo, sistemas de eletroencefalografia (EEG) para medir a atividade cerebral, neuroimagens como a ressonância magnética funcional (fMRI) para mapear o cérebro, interfaces cérebro-máquina (ICM) para controlar dispositivos através do pensamento, e estimulação cerebral profunda (DBS) para tratar condições como Parkinson e epilepsia.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 67,
+    "title": "Por que contratar?",
+    "description": "Artigo sobre Por que contratar a MD9i",
+    "content": "A contratação de um serviço de neurotecnologia pode trazer benefícios significativos para empresas e instituições que trabalham com a pesquisa e tratamento de doenças do sistema nervoso, incluindo melhorias no diagnóstico e tratamento, avanços na pesquisa científica, desenvolvimento de novas tecnologias e acesso a especialistas em neurotecnologia..",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 68,
+    "title": "NEUROTECNOLOGIA",
+    "description": "Artigo sobre NEUROTECNOLOGIA",
+    "content": "Neuroética e Neurodireitos A neuroética é uma disciplina que combina neurociência e ética para estudar as implicações éticas das tecnologias e pesquisas relacionadas ao cérebro e ao sistema nervoso. A neuroética examina questões como a responsabilidade moral e legal em relação ao comportamento humano e as decisões tomadas com base em evidências neurológicas, os limites da privacidade em relação ao acesso e uso de informações do cérebro, a justiça e a equidade no acesso a tecnologias de neurociência e as preocupações éticas relacionadas à melhoria cognitiva. A neuroética também se preocupa com as implicações de novas tecnologias, como interfaces cérebro-máquina e estimulação cerebral profunda, que podem ter efeitos profundos sobre a identidade, a liberdade e a autonomia das pessoas. Os neurodireitos são um conjunto de direitos que buscam proteger a integridade e a dignidade dos indivíduos em relação à sua privacidade, liberdade e autonomia em contextos que envolvem tecnologias de neurociência. Esses direitos incluem, por exemplo, o direito à privacidade das informações do cérebro, o direito à liberdade e à autonomia cognitiva e o direito a um julgamento justo em casos que envolvam evidências de neurociência.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 69,
+    "title": "Próteses Biônicas",
+    "description": "Artigo sobre Próteses Biônicas",
+    "content": "As próteses biónicas são projetadas para imitar a aparência, a sensação e a funcionalidade do membro perdido ou afetado, permitindo que os usuários executem tarefas diárias, como pegar objetos, caminhar ou correr. Além disso, as próteses biónicas podem ser controladas por sinais elétricos gerados pelo cérebro ou por músculos remanescentes do membro, permitindo que o usuário mova a prótese de maneira intuitiva.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 70,
+    "title": "Chips no cérebro",
+    "description": "Artigo sobre Chips no cérebro",
+    "content": "Os chips no cérebro geralmente envolvem a implantação de um pequeno conjunto de eletrodos dentro do cérebro, que podem ser usados para registrar a atividade elétrica das células cerebrais ou para enviar sinais elétricos para o cérebro. Esses sinais podem ser interpretados por um computador ou outro dispositivo eletrônico, permitindo que o usuário controle um cursor de computador, um braço robótico ou outros dispositivos.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 71,
+    "title": "BCI",
+    "description": "Artigo sobre BCI",
+    "content": "Brain-Computer Interface' (Interface Cérebro-Computador, em português). Trata-se de uma tecnologia que estabelece uma conexão direta entre o cérebro humano e um computador ou outro dispositivo eletrônico, permitindo que o usuário controle o dispositivo com seus pensamentos.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 72,
+    "title": "Harder, Better, Faster and Stronger",
+    "description": "Artigo sobre Harder, Better, Faster and Stronger",
+    "content": "A neurotecnologia tem o potencial de melhorar a vida das pessoas em muitas áreas, mas a questão de se a neurotecnologia pode transformar um humano 'melhorado' é mais complexa e controversa, envolvendo diferentes conceitos e implicações éticas e sociais que devem ser consideradas.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 73,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 74,
+    "title": "Neurociência",
+    "description": "Artigo sobre Neurociência",
+    "content": "O estudo do cérebro e do sistema nervoso em relação ao comportamento humano. A neurociência é fundamental para entender como o cérebro funciona e como ele está relacionado com a cognição, a emoção e o comportamento.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 75,
+    "title": "Tecnologia",
+    "description": "Artigo sobre Tecnologia",
+    "content": "O desenvolvimento de dispositivos, equipamentos e sistemas para interagir com o cérebro e o sistema nervoso. Isso inclui tecnologias como o BCI (Brain-Computer Interface), próteses biónicas e estimulação cerebral.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 76,
+    "title": "Ética",
+    "description": "Artigo sobre Ética",
+    "content": "A análise das implicações éticas e sociais do uso de tecnologias neurocientíficas. A ética é importante para garantir que as tecnologias neurocientíficas sejam usadas de maneira responsável e respeitem os direitos e a privacidade das pessoas.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 77,
+    "title": "Pilares",
+    "description": "Artigo sobre Pilares",
+    "content": "Juntas, essas áreas são importantes para o desenvolvimento de tecnologias neurocientíficas responsáveis e éticas, que possam melhorar a qualidade de vida.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 78,
+    "title": "COM O QUÊ LIDAMOS!",
+    "description": "Artigo sobre COM O QUÊ LIDAMOS!",
+    "content": "Entender o cérebro, visualizar seus processos e, inclusive, controlar, reparar ou melhorar suas funções.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 79,
+    "title": "Tratamento de doenças neurológicas:",
+    "description": "Artigo sobre Tratamento de doenças neurológicas",
+    "content": "A neurotecnologia poderá permitir tratamentos mais precisos e eficazes para doenças neurológicas como Alzheimer, Parkinson e epilepsia, melhorando a qualidade de vida das pessoas afetadas por essas condições.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 80,
+    "title": "Comunicação avançada:",
+    "description": "Artigo sobre Comunicação avançada",
+    "content": "A neurotecnologia pode permitir uma comunicação mais direta entre o cérebro humano e dispositivos eletrônicos, permitindo a pessoas com deficiência física uma maior independência e possibilidade de interação com o mundo.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 81,
+    "title": "Aumento cognitivo",
+    "description": "Artigo sobre Aumento cognitivo",
+    "content": "A neurotecnologia pode possibilitar melhorias na cognição, como melhor memória, atenção e concentração, o que pode ter aplicações em áreas como educação e trabalho.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 82,
+    "title": "Aprimoramento humano",
+    "description": "Artigo sobre Aprimoramento humano",
+    "content": "A neurotecnologia poderá possibilitar o aprimoramento humano em áreas como habilidades físicas e cognitivas, o que pode levar a novos níveis de desempenho humano em diversas áreas.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 83,
+    "title": "Custo acessível",
+    "description": "Artigo sobre Custo acessível",
+    "content": "O Power BI oferece diferentes planos de preços, incluindo uma versão gratuita, tornando a plataforma acessível para empresas de todos os tamanhos.",
+    "category": "neurotechnology",
+    "url": "/neurotechnology"
+  },
+  {
+    "id": 84,
+    "title": "Outsourcing",
+    "description": "Slogan da pagina outsourcing",
+    "content": "Arquitetamos o seu sonho para tornar-lo realidade.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 85,
+    "title": "O que é?",
+    "description": "Artigo sobre O que é outsourcing",
+    "content": "Outsourcing é uma prática empresarial em que uma empresa contrata uma terceira empresa ou indivíduo para realizar uma tarefa ou função que normalmente seria realizada por seus próprios funcionários ou departamentos internos. O outsourcing pode ser usado em várias áreas de uma empresa, incluindo serviços de tecnologia da informação, contabilidade, recursos humanos, marketing, produção, logística e outros. Ele é usado principalmente como uma maneira de reduzir custos, aumentar a eficiência e a qualidade, e permitir que a empresa se concentre em suas principais competências.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 86,
+    "title": "Por que contratar?",
+    "description": "Artigo sobre Por que contratar MD9i",
+    "content": "Contratar serviços de outsourcing pode oferecer uma série de benefícios, incluindo redução de custos, acesso a habilidades especializadas, aumento da eficiência, flexibilidade e melhoria da qualidade. No entanto, é importante avaliar cuidadosamente as opções de outsourcing antes de tomar uma decisão para garantir que ela atenda às necessidades específicas da empresa e seja a escolha certa a longo prazo.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 87,
+    "title": "TECNOLOGIA PARA TODOS",
+    "description": "Artigo sobre TECNOLOGIA PARA TODOS",
+    "content": "Pilares do Outsourcing Foco no core business: a empresa deve se concentrar nas atividades que são essenciais para o seu sucesso e terceirizar as atividades secundárias. Redução de custos: a terceirização pode reduzir os custos da empresa contratante, já que a empresa contratada pode ter economias de escala e eficiência operacional. Melhoria da qualidade: a empresa contratada pode ter maior experiência e expertise na atividade terceirizada, resultando em uma melhoria na qualidade do trabalho. Flexibilidade: a terceirização permite que a empresa contratante ajuste rapidamente sua capacidade de produção de acordo com as demandas do mercado. Acesso a recursos especializados: a empresa contratada pode fornecer recursos especializados que não estão disponíveis na empresa contratante. Responsabilidade compartilhada: a empresa contratada assume a responsabilidade pelas atividades terceirizadas, permitindo que a empresa contratante se concentre em outras áreas de seu negócio. Melhoria do desempenho: a terceirização pode melhorar o desempenho da empresa contratante, permitindo que ela se concentre em suas atividades principais e deixando atividades secundárias nas mãos de empresas especializadas.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 88,
+    "title": "Parcerias estratégicas",
+    "description": "Artigo sobre Parcerias estratégicas",
+    "content": "as empresas contratantes precisam encontrar parceiros que possam atender às suas necessidades específicas, oferecendo serviços personalizados que se encaixem em suas operações e objetivos.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 89,
+    "title": "Parcerias baseadas em confiança",
+    "description": "Artigo sobre Parcerias baseadas em confiança",
+    "content": "a confiança é um elemento crucial em qualquer relação de outsourcing, pois as empresas contratantes estão confiando em outras empresas para executar atividades importantes em nome delas.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 90,
+    "title": "Parcerias de longo prazo",
+    "description": "Artigo sobre Parcerias de longo prazo",
+    "content": "as parcerias de longo prazo podem trazer benefícios significativos para as empresas contratantes e contratadas, pois permitem que ambas as partes se concentrem em um relacionamento duradouro e mutuamente benéfico.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 91,
+    "title": "Parcerias de longo prazo",
+    "description": "Artigo sobre Parcerias de longo prazo",
+    "content": "As parcerias são essenciais no outsourcing, pois as empresas contratantes precisam encontrar empresas contratadas confiáveis e competentes para executar as atividades terceirizadas.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 92,
+    "title": "Cooperação",
+    "description": "Artigo sobre Cooperação",
+    "content": "As empresas contratantes e contratadas podem trabalhar em estreita colaboração para encontrar soluções inovadoras e eficazes que possam melhorar os processos e resultados das empresas contratantes.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 93,
+    "title": "Parcerias com empresas locais",
+    "description": "Artigo sobre Parcerias com empresas locais",
+    "content": "Em alguns casos, as empresas contratantes podem optar por trabalhar com empresas locais para terceirizar atividades, a fim de aproveitar as vantagens de trabalhar com empresas que conhecem bem o mercado local e as regulamentações.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 94,
+    "title": "Parcerias internacionais",
+    "description": "Artigo sobre Parcerias internacionais",
+    "content": "As empresas contratantes podem estabelecer parcerias com empresas internacionais para terceirizar atividades em outras regiões do mundo, permitindo que elas entrem em novos mercados e aproveitem oportunidades globais.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 95,
+    "title": "Desempenho",
+    "description": "Artigo sobre Desempenho",
+    "content": "As empresas contratantes podem estabelecer acordos baseados em desempenho com as empresas contratadas, incentivando-os a alcançar metas específicas e prestando serviços de alta qualidade.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 96,
+    "title": "SERVIÇOS DE TI",
+    "description": "Artigo sobre SERVIÇOS DE TI",
+    "content": "Oferecemos várias soluções Oferecemos serviços de TI como: • Desenvolvimento de Software • Gerenciamento de infraestrutura de TI • Suporte técnico • Backup de dados.",
+    "category": "outsourcing",
+    "url": "/outsourcing"
+  },
+  {
+    "id": 97,
+    "title": "CONNECTIONS FOR LIFE",
+    "description": "Slogan da pagina inicial.",
+    "content": "CONNECTIONS FOR LIFE",
+    "category": "Inicio",
+    "url": "/"
+  },
+  {
+    "id": 98,
+    "title": "Soluções Para você",
+    "description": "Artigo sobre Soluções Para você",
+    "content": "A MD9i é a empresa que vai te apoiar na consolidação da Cultura Digital",
+    "category": "Inicio",
+    "url": "/"
+  },
+  {
+    "id": 99,
+    "title": "#VemSerMD9i",
+    "description": "Hashtag promovendo um convite a fazer parte da empresa",
+    "content": "Venha fazer parte de uma das melhores empresas para se trabalhar no mercado tecnológico, aqui na MD9i, você terá a oportunidade de se desenvolver, a liberdade de criar e o desafio para inovar. Se você almeja por inovação, capacitação e flexibilidade e está pronto para dar um play em sua carreira, estamos esperando por você!",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 100,
+    "title": "Ecossistema",
+    "description": "Slogan da pagina Ecossistema",
+    "content": "Mergulhamos nos negócios de nossos clientes para que possamos compreender verdadeiramente como eles funcionam, o que os motiva, quais problemas enfrentam e quais são suas expectativas. Isso nos permite desenvolver e implementar estratégias e soluções tecnológicas que os ajudem a efetuar mudanças reais e a obter um retorno muito maior sobre o investimento. Como resultado, podemos entender seus desafios únicos e aconselhar sobre as melhores práticas para atender às suas necessidades, tanto comercialmente como tecnicamente.",
+    "category": "ecossistema",
+    "url": "/ecossistema"
+  },
+  {
+    "id": 101,
+    "title": "Quem já nos conhece",
+    "description": "Artigo sobre Quem já nos conhece",
+    "content": "As melhores práticas especializadas no mercado são utilizadas por nós. É importante ouvir de quem confiou no nosso trabalho e teve o resultado alcançado. Estes são alguns de nossos clientes.",
+    "category": "ecossistema",
+    "url": "/ecossistema"
+  },
+  {
+    "id": 102,
+    "title": "Parceiros",
+    "description": "Artigo sobre Parceiros",
+    "content": "Alguns dos nossos parceiros que confiaram e estão conosco há muito tempo. De grandes empresas públicas ou privadas a pequenas empresas. Temos uma solução para todas.",
+    "category": "ecossistema",
+    "url": "/ecossistema"
+  },
+  {
+    "id": 103,
+    "title": "Contato",
+    "description": "Slogan da pagina Contato",
+    "content": "Estamos Conectados",
+    "category": "contato",
+    "url": "/contato"
+  },
+  {
+    "id": 104,
+    "title": "Whatsapp",
+    "description": "Contato da empresa via Whatsapp",
+    "content": "Nos chame no WhatsApp é rápido e simples. Bem-vindo a nossa área de comunicação! Queremos ouvir de você! Se você tem alguma dúvida, comentário, sugestão ou quer contratar um de nossos serviços, por favor, não hesite em nos contatar. Nosso objetivo é fornecer o melhor serviço possível e estamos ansiosos para ajudá-lo. Sinta-se à vontade para nos enviar um e-mail, ligar para nós ou preencher o formulário abaixo. Nós prometemos responder rapidamente e ajudar de qualquer forma que pudermos. Obrigado por nos dar a oportunidade de melhorar nossos serviços!",
+    "category": "contato",
+    "url": "/contato"
+  },
+  {
+    "id": 105,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 106,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 107,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 108,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 109,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 110,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 111,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 112,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 113,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  },
+  {
+    "id": 114,
+    "title": "",
+    "description": "Artigo sobre ",
+    "content": "",
+    "category": "",
+    "url": "/"
+  }
+  
+]
